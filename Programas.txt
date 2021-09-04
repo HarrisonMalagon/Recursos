@@ -1,0 +1,2 @@
+Cygwin - Terminal Bash
+Git bash - Terminal
